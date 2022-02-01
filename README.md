@@ -4,17 +4,17 @@
 
 
 ### 🚀 About this project
- - This project is about an movie catalog.
- - The template of project is downloaded and it is necessary to implement some methods for the project to work correctly.
+ - This project is about a movie catalog.
+ - The template of project is downloaded and it is necessary to implement some components for the project to work correctly.
 
 ### 📝 Challenges
- - ✔️ handleCreateNewTask: It should be possible to add a new task in the `tasks` state, with an `id` should be created randomly, the `title` should be a text and `isComplete`  should start as false. 
- - ✔️ handleToggleTaskCompletion: Must change the status of `isComplete` for a task with a specific ID that is received by parameter.
- - ✔️ handleRemoveTask: Must receive an ID per parameter and remove a task that contains that ID from the state.
-
+ - ✔️ The Content component must have all the logic and body responsible for the header and session's content.
+ - ✔️ The SideBar's component must be responsible for all the navigation logic and body on the left side of the page.
+  
 ### 🚀 Getting started
  - Clone repository
- - In the project directory, you can run `yarn` to download project dependencies and then `yarn dev`
+ - In the project directory, you can run `yarn` to download project dependencies and then run `yarn server` to provide the data for the application. In the other terminal you can run `yarn dev` to start the application.
  - Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
  
-![to do](https://user-images.githubusercontent.com/26603179/151901909-260ddb57-3327-4286-988f-e3c004f594f0.jpg)
+
+![watchme](https://user-images.githubusercontent.com/26603179/151907582-71d497f5-735e-4f49-ba98-52f2a9f3f121.jpg)
